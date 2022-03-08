@@ -1,4 +1,4 @@
-# Lecture : Big Data & AI (1324201-01) December 2021
+# Course : Big Data & AI (1324201-01) on the second semester 2021
 `This assignment is done by Chicago Park`
 
 #### Assignment 1 Title : Understanding the difference between K Means Algorithm and Affinity Propagation Algorithm
